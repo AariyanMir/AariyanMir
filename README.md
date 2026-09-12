@@ -1,46 +1,29 @@
-<h1 align="center">Hi there, I'm Mir Aariyan Owais ⚡</h1>
-<h3 align="center">Wiring circuits by day, debugging code by night 🔌💻</h3>
+# Mir Aariyan Owais
+
+**Electronics & Communication Engineering Student**
+
+I'm a first-year ECE student focused on building strong fundamentals in electronics, embedded systems, and programming. I learn by building — working through small projects that connect classroom theory to practical implementation.
+
+[LinkedIn](https://www.linkedin.com/in/aariyanmir) · [Email](mailto:miraariyan51@gmail.com)
+
+---
+
+## Currently
+
+- Learning: C, Python, and the fundamentals of circuit design
+- Interested in: Embedded Systems, Signal Processing, VLSI
+
+---
+
+## Tech Stack
+
+`C` `Python` `MATLAB` `Arduino` `Git`
+
+---
+
+## GitHub Activity
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00A8E8&center=true&vCenter=true&width=500&lines=First-Year+ECE+Student;Exploring+Embedded+Systems;Learning+C+%2B+Python;Building+one+circuit+at+a+time" alt="Typing SVG" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=default&hide_border=true" width="48%" />
 </p>
-
----
-
-### 📡 About Me
-- 🎓 First-year **Electronics & Communication Engineering** student
-- 🔭 Currently working on: `[your project name]`
-- 🌱 Currently learning: **C, Python, Basic Circuit Design**
-- ⚡ Fun fact: I think in both **voltages and variables**
-- 📫 Reach me: [LinkedIn](your-linkedin-link) 
-
----
-
-### 🛠️ Tech & Tools
-<p align="left">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" />
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
-
----
-
-### 🔧 Featured Projects
-| Project | Description |
-|---------|-------------|
-| ⚡ [Project Name](link) | Short one-line description |
-| 🤖 [Project Name](link) | Short one-line description |
-
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" width="48%" />
-</p>
-
----
-
-<p align="center"><i>"Current flows, circuits complete, code compiles — one step closer every day."</i> ⚡</p>
